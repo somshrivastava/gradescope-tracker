@@ -1,1 +1,0 @@
-# gradescope-tracker
